@@ -1,0 +1,28 @@
+C# OOP – Exercício Calculadora
+1. Criar uma classe Calculadora que não pode ser instanciada diretamente: - CHECK
+
+1.1. Todos os seus membros terão de ser implementados nas classes derivadas. 
+
+1.2. Derivar da classe base as classes CalculadoraSimples e CalculadoraCientifica. - CHECK
+
+1.3. Todas as calculadoras têm de executar as 4 operações aritméticas. 
+
+1.4. A classe CalculadoraSimples vai poder somar 2 ou 3 valores.
+
+1.5. A CalculadoraCientifica acrescenta o método CalcularRaizQuadrada.
+
+2. Executar o mesmo exercício recorrendo a Interface.
+
+
+Para outra operação Press Y , para sair Press X
+
+
+Exercício extra Calculadora - abstract + interface:
+CSimples: métodos para multiplicar 3 ou 4 valores -CHECK |  CHECK
+CCientifica: acrescentar um método para calcular o valor absoluto dum número CHECK | CHECK
+
+
+
+
+
+
